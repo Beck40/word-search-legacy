@@ -1,2 +1,2 @@
 # word-search-legacy
-Archived A-Level project, uploaded for posterity.
+Note: This project was created during my A-Levels. It is archived here for personal reference.
